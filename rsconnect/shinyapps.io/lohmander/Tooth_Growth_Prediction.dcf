@@ -1,0 +1,8 @@
+name: Tooth_Growth_Prediction
+account: lohmander
+server: shinyapps.io
+bundleId: 274440
+url: https://lohmander.shinyapps.io/Tooth_Growth_Prediction
+when: 1443282302.10513
+asMultiple: FALSE
+asStatic: FALSE
